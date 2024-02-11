@@ -1,7 +1,8 @@
 Descrição
 
 Este projeto consiste em uma API desenvolvida em Node.js utilizando o framework Fastify para alta performance e escalabilidade. A comunicação com o banco de dados é feita de forma simples e segura utilizando o Knex.js. Além disso, conta com testes automatizados para garantir a qualidade do código. O deploy da aplicação é feito de forma automática e simplificada utilizando o Render.
-#Funcionalidades
+
+Funcionalidades
 
     Criação, leitura, atualização e exclusão (CRUD) de recursos via API REST.
     Documentação das rotas disponível no arquivo docs/api-docs.yaml.
