@@ -1,6 +1,6 @@
 Descrição
 
-Este projeto consiste em uma API desenvolvida em Node.js utilizando o framework Fastify para alta performance e escalabilidade. Utilizando Banco De Dados SQLite. Além disso, conta com testes automatizados para garantir a qualidade do código. O deploy da aplicação é feito de forma automática e simplificada utilizando o Render.
+Este projeto consiste em uma API desenvolvida em Node.js utilizando o framework Fastify para alta performance e escalabilidade. Banco De Dados SQLite com a comunicação feita através de um Query Builder chamado Knex.js . Além disso, conta com testes automatizados para garantir a qualidade do código. O deploy da aplicação é feito de forma automática e simplificada utilizando o Render.
 
 Funcionalidades
 
